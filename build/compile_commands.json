@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/zhb15/shares/Shares/C++/json/cpp/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_DYN_LINK  -fopenmp -std=gnu++20 -Werror -W -O2 -ftemplate-depth=4096 -lgomp -lpthread -fmodules-ts -g -std=gnu++20 -fPIE -fdiagnostics-color=always -o CMakeFiles/test.dir/source/main.cpp.o -c /home/zhb15/shares/Shares/C++/json/cpp/source/main.cpp",
+  "file": "/home/zhb15/shares/Shares/C++/json/cpp/source/main.cpp",
+  "output": "CMakeFiles/test.dir/source/main.cpp.o"
+}
+]
