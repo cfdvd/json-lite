@@ -17,8 +17,6 @@
 
 #include <cassert>
 
-#include <boost/core/ignore_unused.hpp>
-
 namespace JsonAnalysis {
     // boost.core.ignore_unused
     template <typename... T>
